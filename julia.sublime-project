@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "C:\\sde\\tmp\\julia"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "."
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\sde\\cygwin\\home\\mschmitt\\.julia"
+		}
+	]
+}
